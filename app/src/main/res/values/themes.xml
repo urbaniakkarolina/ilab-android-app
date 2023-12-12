@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ILab" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/turtle</item>
+    </style>
+
+    <style name="Theme.ILab.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.ILab.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.ILab.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

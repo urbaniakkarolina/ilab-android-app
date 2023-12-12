@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">iLab</string>
+    <string name="title_activity_login_view">LoginView</string>
+    <string name="login_button_text">Log in</string>
+    <string name="register_button_text">Register</string>
+    <string name="title_activity_register_view">RegisterView</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="login_text">Zaloguj się</string>
+    <string name="register_text">Zarejestruj się</string>
+    <string name="title_activity_results_saver">ResultsSaver</string>
+    <string name="web_client_id">869435709113-3ct6k5ksoc858mkdt8fl36edtpqmiaib.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">1075666743431167</string>
+    <string name="fb_login_protocol_scheme">fb309526808503584</string>
+    <string name="facebook_client_token">e9f16c4c68fdc116866419e7d8f0945e</string>
+</resources>
